@@ -56,9 +56,5 @@ CSE student at Daffodil International University with hands-on experience in **R
   
   <a href="mailto:mdashrafgmhs@gmail.com">mdashrafgmhs@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/aliashraf1551/">LinkedIn Profile</a>
-  
   <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20&fontSize=25&fontColor=61DAFB&animation=twinkling" />
-  
 </div>
