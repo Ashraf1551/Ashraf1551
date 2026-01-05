@@ -16,6 +16,16 @@ CSE student at Daffodil International University with hands-on experience in **R
 
 ---
 
+## LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/ashRuff_1551/">
+    <img src="https://leetcard.jacoblin.cool/ashRuff_1551?theme=dark&font=Karma" />
+  </a>
+</p>
+
+---
+
 ## Skills & Technologies
 
 ### Frontend Development
@@ -37,7 +47,6 @@ CSE student at Daffodil International University with hands-on experience in **R
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-
 ### Tools & Hosting
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -53,7 +62,6 @@ CSE student at Daffodil International University with hands-on experience in **R
 <div align="center">
   
   ## Connect with Me
-  
   <a href="mailto:mdashrafgmhs@gmail.com">mdashrafgmhs@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/aliashraf1551/">LinkedIn Profile</a>
   <br><br>
