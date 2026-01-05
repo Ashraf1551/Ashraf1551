@@ -66,3 +66,9 @@ CSE student at Daffodil International University with hands-on experience in **R
   <a href="https://www.linkedin.com/in/aliashraf1551/">LinkedIn Profile</a>
   <br><br>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Thanks&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Open%20to%20be%20hired%20and%20available%20to%20help%20you%20complete%20your%20next%20project&descSize=25&descAlignY=60&gradient=8000FF,FF4CAA" width="100%" />
+</div>
