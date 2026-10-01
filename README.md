@@ -8,11 +8,24 @@
 
 ## About Me
 
-**MERN Stack Developer | Problem Solver**
+**Full-Stack Developer | Building Scalable Digital Solutions**
 
-CSE student at Daffodil International University with hands-on experience in **React, Next.js, Node.js, Express, MongoDB, and Mongoose**. I build scalable, high-performance web applications with **clean architecture**.
+- **Business-Focused Development:** Turning business requirements into practical web solutions
+- **Product Development:** Translating ideas into clear features, user flows, and functional products
+- **Full-Stack Development:** Building complete solutions across frontend, backend, database, and application architecture
+- **Scalable Systems:** Developing scalable, maintainable, and performance-focused applications
+- **Problem Solving:** Applying Data Structures & Algorithms (DSA) to design efficient solutions
+- **Software Design:** Applying Object-Oriented Programming (OOP) for well-structured and maintainable code
+- **Engineering Focus:** Clean architecture, performance optimization, maintainability, and long-term scalability
 
-**I am a dedicated problem solver** who enjoys tackling complex challenges through **Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and system optimization**. I focus on writing efficient, clean code that not only works but performs optimally.
+## Core Tech
+
+I focus on clean architecture, performance optimization, efficient problem solving, and practical product development.
+
+- **Core Stack:** Next.js, TypeScript, Node.js, PostgreSQL, Prisma
+- **Frontend:** React, Next.js, Tailwind CSS, shadcn/ui
+- **Backend:** Node.js, Express.js, PostgreSQL, Prisma
+- **Computer Science Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks
 
 ---
 
