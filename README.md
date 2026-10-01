@@ -10,9 +10,7 @@
 
 **Full-Stack Developer | Building Scalable Digital Solutions**
 
-- **Business-Focused Development:** Turning business requirements into practical web solutions
-- **Product Development:** Translating ideas into clear features, user flows, and functional products
-- **Full-Stack Development:** Building complete solutions across frontend, backend, database, and application architecture
+- **Business & Product Development:** Turning business requirements and ideas into practical, functional web solutions
 - **Scalable Systems:** Developing scalable, maintainable, and performance-focused applications
 - **Problem Solving:** Applying Data Structures & Algorithms (DSA) to design efficient solutions
 - **Software Design:** Applying Object-Oriented Programming (OOP) for well-structured and maintainable code
